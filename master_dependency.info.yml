@@ -5,6 +5,9 @@ type: module
 core: 8.x
 dependencies:
   - block
+  - menu_ui
+  - field_ui
+  - path
   - editor
   - ckeditor
   - search
