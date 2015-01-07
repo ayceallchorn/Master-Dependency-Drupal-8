@@ -1,0 +1,14 @@
+name: Master Dependency
+description: Define the dependencies of this site
+package: Master dependency
+type: module
+core: 8.x
+dependencies:
+  - block
+  - editor
+  - ckeditor
+  - search
+  - taxonomy
+  - toolbar
+  - views
+  - views_ui
